@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchSample", "TouchSample\TouchSample.csproj", "{629CC5D4-9FF9-4165-ABF8-D323465234DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMInputLayer", "WMInputLayer\WMInputLayer.csproj", "{97D4425A-9AF4-4BF5-8929-5682D08F531B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629CC5D4-9FF9-4165-ABF8-D323465234DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629CC5D4-9FF9-4165-ABF8-D323465234DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629CC5D4-9FF9-4165-ABF8-D323465234DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629CC5D4-9FF9-4165-ABF8-D323465234DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D4425A-9AF4-4BF5-8929-5682D08F531B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D4425A-9AF4-4BF5-8929-5682D08F531B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D4425A-9AF4-4BF5-8929-5682D08F531B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D4425A-9AF4-4BF5-8929-5682D08F531B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

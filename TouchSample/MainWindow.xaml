@@ -1,0 +1,42 @@
+﻿<Window x:Class="TouchSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="410" Width="525">
+    <Grid>
+        <Button Content="Drawing with Touch* events"
+                HorizontalAlignment="Left"
+                Margin="100,30,0,0"
+                VerticalAlignment="Top"
+                Width="200"
+                Padding="10"
+                Click="OldTouchClicked" />
+        <Button Content="Drawing with Stylus* events"
+                HorizontalAlignment="Left"
+                Margin="100,100,0,0"
+                VerticalAlignment="Top"
+                Width="200"
+                Padding="10"
+                Click="OldTouchStylusClicked"/>
+        <Button Content="Drawing with WMLayer* events"
+                HorizontalAlignment="Left"
+                Margin="100,170,0,0"
+                VerticalAlignment="Top"
+                Width="200"
+                Padding="10"
+                Click="OldTouchWMClicked"/>
+        <Button Content="Drawing with disabled Stylus"
+                HorizontalAlignment="Left"
+                Margin="100,240,0,0"
+                VerticalAlignment="Top"
+                Width="200"
+                Padding="10"
+                Click="DisabledTouchClicked"/>
+        <Button Content="Manipulating with Stylus* events"
+                HorizontalAlignment="Left"
+                Margin="100,310,0,0"
+                VerticalAlignment="Top"
+                Width="200"
+                Padding="10"
+                Click="NewTouchClicked"/>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\bin\Debug\wflayer.dll
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\bin\Debug\wflayer.pdb
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\obj\Debug\WMInputLayer.csprojAssemblyReference.cache
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\obj\Debug\WMInputLayer.csproj.CoreCompileInputs.cache
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\obj\Debug\wflayer.dll
+C:\Users\cefalo\Documents\Visual Studio 2017\Projects\TouchSample\WMInputLayer\obj\Debug\wflayer.pdb
